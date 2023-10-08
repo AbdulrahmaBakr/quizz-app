@@ -8,7 +8,7 @@ import 'package:quizz_app/data/questions.dart';
 import 'package:quizz_app/screens/quiz.dart';
 
 class Result extends StatefulWidget {
-  Result({
+  const Result({
     Key? key,
     this.score,
     required this.answers,
