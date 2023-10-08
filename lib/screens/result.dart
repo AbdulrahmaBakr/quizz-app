@@ -20,6 +20,7 @@ class Result extends StatefulWidget {
 }
 
 class _ResultState extends State<Result> {
+  // ignore: prefer_typing_uninitialized_variables
   var rightAnswers;
   final List rightAnswersArr = [];
 
